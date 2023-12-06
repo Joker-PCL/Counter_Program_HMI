@@ -1,0 +1,2 @@
+ESP32_Control = https://github.com/suratin27/ESP32_Control/tree/main
+modbus-arduino = https://github.com/andresarmento/modbus-arduino/tree/master
